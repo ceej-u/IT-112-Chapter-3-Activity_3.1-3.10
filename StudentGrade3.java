@@ -1,6 +1,6 @@
 //Urbano, Chrisitan James E. 
 //BSIT-NS/1st Year/1-1
-public class StudentGrade3 
+public class StudentGrade3  
 {
     public static void main(String[] args) 
     {
